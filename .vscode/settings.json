@@ -33,6 +33,8 @@
         "file:/**/*.xlsx": "jupyter-data-wrangler"
     },
     "cSpell.words": [
+        "mycursor",
+        "mydatabase",
         "mydb"
     ]
 }
